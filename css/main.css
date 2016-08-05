@@ -7,3 +7,8 @@ p{
 	background-image:url(C:users/Ying/desktop/dog.jpg);
 	background-image-size:40px 60px;
 }
+
+nav{
+	background-color:gray;
+	position:fixed;
+}
