@@ -1,0 +1,9 @@
+body{
+	width:900px;
+	margin:0 auto;
+}
+
+p{
+	background-image:url(C:users/Ying/desktop/dog.jpg);
+	background-image-size:40px 60px;
+}
