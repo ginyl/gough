@@ -1,14 +1,22 @@
-body{
+p{
 	width:900px;
 	margin:0 auto;
-}
-
-p{
 	background-image:url(C:users/Ying/desktop/dog.jpg);
 	background-image-size:40px 60px;
 }
 
 nav{
 	background-color:gray;
-	position:fixed;
+	position: fixed;
+	top:10px;
+	padding-right:500px;
+}
+
+li{
+	list-style-type: none;
+	display: inline;
+}
+
+a{
+	text-decoration: none;
 }
